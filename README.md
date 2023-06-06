@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">Mən Həmid, 2 ildən artıqdır proqramlaşdırma ilı məşğul oluram. İnformasiya təhlükəsizliyi o cümlədən elektrik avadanlıqları ilə işləmək məniim üçün hər zaman maraq dairəsində olub.</h3>
+<h3 align="center">Mən Həmid, 2 ildən artıqdır proqramlaşdırma ilı məşğul oluram. İnformasiya təhlükəsizliyi o cümlədən elektrik avadanlıqları ilə işləmək mənim üçün hər zaman maraq dairəsində olub.</h3>
 
 <h3 align="left">Mənimlə əlaqə saxla:</h3>
 <p align="left">
