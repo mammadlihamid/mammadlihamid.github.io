@@ -75,7 +75,7 @@ const parseStatus = (data) => {
 
 const parseActivity = (data, activityData) => {
   return activityData !== undefined
-    ? `"${data.spotify.song}" Listening to <a class="spotify-time">${activityData.current} ─ ${activityData.end}</a>`
+    ? ` Listening to "${data.spotify.song}"<a class="spotify-time">${activityData.current} ─ ${activityData.end}</a>`
     : " I am not listening to anything right now. ";
 };
 
