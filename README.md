@@ -3,7 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">Mən Həmid, 2 ildən artıqdır proqramlaşdırma ilı məşğul oluram. İnformasiya təhlükəsizliyi o cümlədən elektrik avadanlıqları ilə işləmək mənim üçün hər zaman maraq dairəsində olub.</h3>
+<h3 align="center">I am Hamid, I have been coding for more than 2 years. Working with electrical equipment, including information security, has always been an area of interest for me..</h3>
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/821760729191415829?theme=dark&bg=272727)](https://discord.com/users/821760729191415829)
 
