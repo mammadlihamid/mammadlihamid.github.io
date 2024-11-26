@@ -1,0 +1,218 @@
+[
+    {
+        "id": 24,
+        "name": "SAF2024",
+        "photourl": "./assets/images/SAF2024/27.jpg",
+        "awardName": "Activity Area",
+        "awardDescription": "At SAF2024, the team proudly displayed their exceptional ROV, which achieved 1st place and the prestigious 'Most Original Design' award at the Teknofest Unmanned Underwater Systems competition. Their innovative design and success drew significant attention at the exhibition. A highlight of the event was meeting Kurt Yeager, a prominent member of Blue Robotics, who showcased his advanced BlueROV2 Heavy. He reviewed our ROV, we reviewed his, and a dynamic exchange of ideas followed as we shared our design concepts, discussed technical approaches, and gained valuable insights from his expertise. This interaction not only highlighted the spirit of collaboration but also fostered mutual inspiration for future projects",
+        "awardDate": "24.10.2024",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 23,
+        "name": "TEKNOFEST",
+        "photourl": "./assets/images/TEKNOFEST/1.jpg",
+        "awardName": "Unmanned Underwater Systems competition",
+        "awardDescription": "As the QuadRuple team, we are proud to have won first place in the Unmanned Underwater Systems category at TEKNOFEST 2024. Our underwater vehicle is not only capable of smooth underwater movement but also has the ability to launch torpedoes. Equipped with artificial intelligence, our system can recognize objects in its environment and navigate with high precision. Additionally, the vehicle can autonomously locate gates and pass through them using AI. These features ensure seamless performance even in complex underwater conditions. As the only student team representing Azerbaijan in this prestigious competition, we are proud to have made history. We sincerely thank STEAM Azerbaijan for their support throughout this journey.",
+        "awardDate": "04.10.2024",
+        "awardPlace": "1st Place"
+    },
+    {
+        "id": 22,
+        "name": "TEKNOFEST",
+        "photourl": "./assets/images/TEKNOFEST/2.jpg",
+        "awardName": "Unmanned Underwater Systems competition",
+        "awardDescription": "We are honored to have received the Most Original Design Award at TEKNOFEST 2024 in the **Unmanned Underwater Systems** category. This award recognizes the innovative features of our ROV, including its exceptional buoyancy control, advanced underwater stabilization, and the design of the fastest torpedo system in the competition. Our ROV's unique structure ensures smooth performance in challenging underwater environments, maintaining stability and control at all times. The speed and precision of our torpedo system, combined with the smart design of the vehicle, played a key role in earning this prestigious award. This achievement reflects our team's dedication to pushing boundaries in underwater technology and design. We are proud to share this success and continue representing our team with innovation and passion.",
+        "awardDate": "20.09.2024",
+        "awardPlace": "Most Original Design Award"
+    },
+    {
+        "id": 21,
+        "name": "Forum",
+        "photourl": "./assets/images/GDG/1.jpg",
+        "awardName": "Google Developers Group Baku",
+        "awardDescription": "I had the amazing opportunity to participate in the Google Developer Group (GDG) Baku event at UFAZ University! This gathering of tech enthusiasts, developers, and innovators provided an incredible platform to explore cutting-edge technologies, exchange ideas, and build connections with like-minded individuals. The event was a testament to how vibrant and inspiring the tech community in Baku is. From insightful talks to engaging workshops, every moment was a reminder of how technology unites us and pushes us toward a more innovative future. A big thank you to GDG Baku, the organizers, speakers, and everyone who made this event a success. I’m looking forward to staying actively involved in this amazing community and contributing to the ever-growing tech ecosystem.",
+        "awardDate": "20.05.2024",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 20,
+        "name": "Camp",
+        "photourl": "./assets/images/Riyaziyyatcilar/1.jpg",
+        "awardName": "Mathematicians Without Borders",
+        "awardDescription": "I recently had the privilege of participating in the Sərhədsiz Riyaziyyatçılar event at ADA University. This incredible gathering brought together passionate minds who share a love for mathematics and innovation beyond boundaries. The event not only expanded my mathematical perspective but also allowed me to connect with inspiring individuals, exchange ideas, and collaborate on thought-provoking challenges. Special thanks to the organizers, speakers, and all participants who made this event an unforgettable experience. Opportunities like this remind me how mathematics transcends borders, connecting us all through a universal language of logic and creativity.",
+        "awardDate": "04.04.2024",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 19,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/Youth Cyber Security/1.jpg",
+        "awardName": "Youth Cyber Security Championship dedicated to the 100th anniversary of National Leader Heydar Aliyev",
+        "awardDescription": "With the financial support of the Youth Fund of the Republic of Azerbaijan, I won 1st place in the event held as part of the project 'Youth Cyber Security Championship dedicated to the 100th anniversary of National Leader Heydar Aliyev,' organized by the Azerbaijan-Israel Youth Friendship Society and Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA) 🥇. This experience was incredibly rewarding, allowing me to challenge myself in the field of cybersecurity and demonstrate my skills at a high level. I am truly grateful for the support provided by the Youth Fund, and for the opportunity to be part of such a meaningful project celebrating this milestone.",
+        "awardDate": "08.05.2024",
+        "awardPlace": "1st Place"
+    },
+    {
+        "id": 18,
+        "name": "SAF2023",
+        "photourl": "./assets/images/SAF2023/2.jpg",
+        "awardName": "Boat-Racing",
+        "awardDescription": "Our team was very happy to win a special prize from the judges at SAF 2023 for how well we moved our boat during the race. Our boat is very quick and can turn and move in smart ways, which made the judges notice us. This prize shows that we did something very special with our boat and that our team worked hard to be good at controlling it. Winning Jury Award at SAF 2023 makes us proud of our skills and the hard work we put into practicing our boat movements.",
+        "awardDate": "08.12.2023",
+        "awardPlace": "Jury Award"
+    },
+    {
+        "id": 17,
+        "name": "SAF2023",
+        "photourl": "./assets/images/SAF2023/1.jpg",
+        "awardName": "Boat-Racing",
+        "awardDescription": "Our team was thrilled to win the first place in the boat racing event at SAF 2023, thanks to our amazing boat. It's not only speedy, cutting through the water like a knife, but it also has a design that helps it move smoothly and quickly. This design is smart because it makes sure the boat can handle any kind of water, staying dry and safe on the inside. Our boat's ability to stay waterproof means it can go fast without any problems, even when the water gets rough. Winning this competition is a big deal for us because it proves our boat is one of the best out there, and it shows all the hard work our team put into making and racing it.",
+        "awardDate": "08.12.2023",
+        "awardPlace": "1st Place"
+    },
+    {
+        "id": 16,
+        "name": "Forum",
+        "photourl": "./assets/images/IT Karyeram/1.jpg",
+        "awardName": "IT Career 2",
+        "awardDescription": "I participated in the 'IT Karyeram Başlayır 2' forum, an event focused on software development, including both backend and frontend technologies. It was a fantastic opportunity to learn about different career paths in software engineering and gain insights into the skills needed for success in the industry. The discussions and presentations offered valuable perspectives from experienced professionals, covering everything from the fundamentals to more advanced topics in backend and frontend development. This experience was truly enlightening and motivated me further in my journey into the tech world.",
+        "awardDate": "08.11.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 15,
+        "name": "GUYS Group & Binary School",
+        "photourl": "./assets/images/Career Visioners/1.jpg",
+        "awardName": "Career Visionaries",
+        "awardDescription": "I participated in the 'Career Visionaries' forum, organized by GUYS Group and Binary School. It was a very engaging and insightful forum, filled with thought-provoking discussions about career development and future opportunities. The event allowed me to connect with inspiring professionals and gain valuable insights into the evolving job market. It was truly a memorable experience that broadened my perspective on career growth",
+        "awardDate": "02.11.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 14,
+        "name": "Code&More (TECHNEST Scholarship)",
+        "photourl": "./assets/images/Code&More/1.jpg",
+        "awardName": "Electronics for School Students",
+        "awardDescription": "I took part in the 'Electronics for School Students' scholarship program, which allowed me to significantly enhance my knowledge and skills in electronics and coding at Code & More over a period of 6 months. Afterward, I applied to the Technest Scholarship Program and was accepted with a full scholarship. I completed the program with distinction, gaining invaluable experience. These opportunities have played a crucial role in furthering my understanding of electronics and programming, and have provided a solid foundation for my technical expertise.",
+        "awardDate": "22.10.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 13,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/CSS2023/1.jpg",
+        "awardName": "Cyber Summer School 2023",
+        "awardDescription": "I participated in the 'Cyber Summer School - 2023,' organized by Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA). The event was held from July 24-29 at Baku Higher Oil School, providing a fantastic opportunity for young individuals aged 12-16 to learn about cybersecurity from both local and international experts. As the captain of the 'CRYPTX' team, I took part in the Capture the Flag (CTF) competition held during the camp, and we proudly secured 3rd place. The summer school featured not only educational training sessions but also technological tours, making it an enriching experience for everyone involved. Competing in the CTF was an excellent challenge that allowed me to further refine my skills and lead my team in a high-pressure environment.",
+        "awardDate": "24.06.2024 - 29.06.2024",
+        "awardPlace": "3rd Place"
+    },
+    {
+        "id": 12,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/Cryptography/1.jpg",
+        "awardName": "Scientific-practical seminar on cryptography",
+        "awardDescription": "I participated in a scientific-practical seminar on cryptography, held at Azerbaijan Technical University and organized by Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA). The seminar provided valuable insights into the principles and practical applications of cryptography, covering both theoretical and real-world use cases. It was an excellent opportunity to deepen my understanding of encryption technologies and to connect with fellow professionals and enthusiasts interested in advancing cybersecurity.",
+        "awardDate": "13.06.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 11,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/CyberCrime/1.jpg",
+        "awardName": "Cybercrimes and Cybersecurity in Azerbaijani Legislation",
+        "awardDescription": "I had the opportunity to attend a panel discussion dedicated to 'Cybercrimes and Cybersecurity in Azerbaijani Legislation,' held at ADA University. The event was organized by Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA). The discussion provided a comprehensive overview of the current state of cybersecurity and the legal frameworks surrounding cybercrimes in Azerbaijan. It was an insightful experience that highlighted the challenges, progress, and legal nuances involved in strengthening cybersecurity in the country. Attending this panel helped deepen my understanding of how legal systems intersect with cybersecurity efforts, particularly in a rapidly evolving digital landscape.",
+        "awardDate": "28.05.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 10,
+        "name": "Forum",
+        "photourl": "./assets/images/BSF/1.jpg",
+        "awardName": "BiznedəSən",
+        "awardDescription": "I had the privilege of participating in the 'BiznesdəSən' (BFS) Forum, an event designed to bring together aspiring entrepreneurs, business enthusiasts, and experienced professionals to share insights into the evolving world of business. This forum was an incredible opportunity to engage in thought-provoking discussions, hear from industry leaders, and learn firsthand about the latest trends and strategies shaping the business landscape. Throughout the event, I was able to network with numerous professionals, exchange ideas, and gain inspiration from those leading the way in entrepreneurship and innovation. This experience not only broadened my understanding of business strategies but also motivated me to continue my journey toward personal growth and entrepreneurial success.",
+        "awardDate": "16.05.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 9,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/CTF/1.jpg",
+        "awardName": "Cyber Star National CTF League",
+        "awardDescription": "I participated in the 'Cyber Star' National CTF League, organized by Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA), as a member of the team 'Mr. Robot.' Our team secured 4th place, achieving the same score as the 3rd place team but narrowly missing the podium due to timing differences. It was a highly competitive event, and I'm proud of our performance, which demonstrated our strong skills and determination. This experience was invaluable for learning more about teamwork and problem-solving under pressure in the field of cybersecurity.",
+        "awardDate": "19.04.2023",
+        "awardPlace": "4th Place"
+    },
+    {
+        "id": 8,
+        "name": "Cyber Security Platform",
+        "photourl": "./assets/images/Cyber Cafe 2023/1.jpg",
+        "awardName": "Cyber Cafe 2023",
+        "awardDescription": "I participated in 'Cyber Cafe 2023,' organized by Kibertəhlükəsizlik Platforması. This event provided a fantastic opportunity to engage with cybersecurity professionals, exchange ideas, and stay updated on the latest trends and challenges in the cyber world. It was an enriching experience that deepened my knowledge and allowed me to expand my professional network by connecting with others passionate about cybersecurity.",
+        "awardDate": "18.04.2023",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 7,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/Soft Skills/1.jpg",
+        "awardName": "IKT's role in Soft Skills",
+        "awardDescription": "I had the opportunity to participate in a workshop organized by Azerbaijan Cybersecurity Organizations Association (ACOA), which focused on the role of ICT in developing essential soft skills. The event showcased how ICT tools like virtual collaboration platforms, online learning resources, and interactive simulations can improve skills such as communication, teamwork, and problem-solving. The workshop included hands-on activities and discussions that demonstrated how ICT enables practical learning and real-time collaboration. This experience reinforced the importance of integrating ICT into education to prepare individuals for success in a technology-driven world.",
+        "awardDate": "19.10.2022",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 6,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/GHWS/1.jpg",
+        "awardName": "Global Hybrid Warfare and Cyber Security Summit",
+        "awardDescription": "On October 3, 2022, I had the opportunity to participate in the GHWSummit Azerbaijan Edition, held in Baku. The event was co-organized by InterProbe Information Technologies  and Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA) in partnership with A2Z Technologies, Cyberpoint and supported by AKTA member company Pnetworks. The summit featured speeches from notable figures such as Ilgar Musayev, Head of the Special Communication and Information Security State Service of Azerbaijan, Rahid Alekberli, Ph.D., MPhil, MSc, AKTA Chairman of the Board, Davud Rustamov, Head of the Cyber Security Center, Bakhtiyar Aslanbayli, bp’s Vice President for the Caspian region, as well as Ahmad Ismayilov, Executive Director of the Media Development Agency, and other distinguished officials. This summit provided valuable insights into the evolving challenges of hybrid warfare and cybersecurity, as well as the strategies employed to address these complex issues. It was an incredible experience to hear directly from industry leaders and gain exposure to emerging trends and practices in the field.",
+        "awardDate": "03.10.2022",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 5,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/CSS2022/1.jpg",
+        "awardName": "Cyber Summer School 2022",
+        "awardDescription": "I had the opportunity to participate in the 'Cyber Summer School - 2022,' held on the campus of ADA University and organized by Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA). The event included participants from three countries: Turkey, Israel, and Azerbaijan, fostering an enriching environment for cross-cultural collaboration in the field of cybersecurity. During the summer school, we explored various aspects of cybersecurity and also had an insightful visit to Azad Systems, where we learned about the development of unmanned aerial vehicles (UAVs). This experience provided me with hands-on knowledge of both cybersecurity practices and the advanced technologies shaping the future of national security.",
+        "awardDate": "22.07.2022",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 4,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/Virtual Education Program/1.jpg",
+        "awardName": "Virtual Education Program",
+        "awardDescription": "I had the opportunity to participate in the event titled 'Virtual Education Platform,' organized by the Azerbaijan-Israel Youth Friendship Society, Azərbaycan Kibertəhlükəsizlik Təşkilatları Assosiasiyası (AKTA), and supported by the State Support Agency for Non-Governmental Organizations of the Republic of Azerbaijan. The event focused on exploring effective strategies for virtual education, providing a valuable opportunity to learn about best practices, share insights, and collaborate with other participants committed to advancing education through technology.",
+        "awardDate": "07.06.2022",
+        "awardPlace": "Participation"
+    },
+    {
+        "id": 3,
+        "name": "The Ministry of Education and Science",
+        "photourl": "./assets/images/Ne harada ne zaman/1.jpg",
+        "awardName": "What? Where? When?",
+        "awardDescription": "I am proud to share that I took 2nd place in the Republic Championship of the intellectual game 'Nə? Harada? Nə zaman?' (What? Where? When?), as a member of the 'Dahilər' team. This event was organized by Elm və Təhsil Nazirliyi - The Ministry of Science and Education and supported by Kapital Bank🥈. The championship was part of the 'Educational Games Platform' project, aimed at engaging talented high school students from grades 10-11 across the country. Competing in the final round of the Republic Cup was an incredible experience that helped me grow both intellectually and personally, while fostering teamwork and strategic thinking skills.",
+        "awardDate": "29.05.2022",
+        "awardPlace": "2nd Place"
+    },
+    {
+        "id": 2,
+        "name": "Mathematical Association of America",
+        "photourl": "./assets/images/AMC 8/1.jpg",
+        "awardName": "American Mathematics Competitions 8",
+        "awardDescription": "I am proud to share that I took second place in the international American Mathematics Competitions 8 (AMC 8), organized by Mathematical Association of America 🥈. The AMC 8 is a prestigious mathematics competition that brings together talented young mathematicians from across the globe. Securing second place was an incredible experience that not only tested my problem-solving abilities but also fueled my passion for mathematics. This journey taught me the importance of perseverance, creative thinking, and connecting with a community of like-minded individuals who share the same enthusiasm for problem-solving. I am truly grateful for the experience and excited to continue exploring the world of mathematic",
+        "awardDate": "14.04.2022",
+        "awardPlace": "2nd Place"
+    },
+    {
+        "id": 1,
+        "name": "Azerbaijan Cybersecurity Organizations Association",
+        "photourl": "./assets/images/CyberCamp2021/1.jpg",
+        "awardName": "Cyber Camp 2021",
+        "awardDescription": "I had the opportunity to participate in Cyber Camp 2021, organized by Azerbaijan Cybersecurity Organizations Association (ACOA) from July 12th to 17th, 2021. The camp provided an incredible experience to learn, grow, and connect with peers in the field of cybersecurity, enhancing both my technical skills and industry knowledge. During the camp, I solved Capture the Flag (CTF) challenges, learned new things about cybersecurity, and met incredible people who inspired me throughout the journey.",
+        "awardDate": "12.07.2021 - 17.07.2021",
+        "awardPlace": "Participation"
+    }
+]
