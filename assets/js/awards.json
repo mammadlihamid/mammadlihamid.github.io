@@ -1,8 +1,17 @@
 [
     {
+        "id": 25,
+        "name": "Future's Scientists 2025",
+        "photourl": "./assets/images/SA XIV/15.png",
+        "awardName": "Robotics and Artificial Intelligence",
+        "awardDescription": "The dynamic duo of Hamid Mammadli and his teammate proudly clinched first place at Future's Scientist 2025 in the Robotics and Artificial Intelligence category. Their exceptional project, an innovative underwater submarine drone, captivated the judges with its cutting-edge AI integration and advanced engineering design. This achievement showcases their unwavering dedication, collaborative spirit, and a shared vision for pushing the boundaries of technology. Their success is a testament to their expertise and hard work, setting a new benchmark for innovation in the field",
+        "awardDate": "14.03.2025",
+        "awardPlace": "1st Place"
+    },
+    {
         "id": 24,
         "name": "SAF2024",
-        "photourl": "./assets/images/SAF2024/27.jpg",
+        "photourl": "./assets/images/SAF2024/28.jpg",
         "awardName": "Activity Area",
         "awardDescription": "At SAF2024, the team proudly displayed their exceptional ROV, which achieved 1st place and the prestigious 'Most Original Design' award at the Teknofest Unmanned Underwater Systems competition. Their innovative design and success drew significant attention at the exhibition. A highlight of the event was meeting Kurt Yeager, a prominent member of Blue Robotics, who showcased his advanced BlueROV2 Heavy. He reviewed our ROV, we reviewed his, and a dynamic exchange of ideas followed as we shared our design concepts, discussed technical approaches, and gained valuable insights from his expertise. This interaction not only highlighted the spirit of collaboration but also fostered mutual inspiration for future projects",
         "awardDate": "24.10.2024",

@@ -15,15 +15,77 @@
         "photourl": "./assets/images/TEKNOFEST/18.jpg"
     },
     {
+        "id": 154,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/15.png"
+    },
+    {
+        "id": 140,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/1.jpg"
+    },
+    {
+        "id": 152,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/8.jpg"
+    },
+    {
+        "id": 153,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/6.jpg"
+    },
+    {
         "id": 143,
         "name": "SAF 2024",
-        "photourl": "./assets/images/SAF2024/27.jpg"
+        "photourl": "./assets/images/SAF2024/28.jpg"
     },
     {
         "id": 133,
         "name": "SAF 2024",
         "photourl": "./assets/images/SAF2024/10.jpg"
     },
+    {
+        "id": 141,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/2.jpg"
+    },
+    {
+        "id": 142,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/3.jpg"
+    },
+    {
+        "id": 143,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/4.jpg"
+    },
+    {
+        "id": 144,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/5.jpg"
+    },
+    
+    {
+        "id": 146,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/7.png"
+    },
+    {
+        "id": 147,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/13.jpg"
+    },
+    {
+        "id": 148,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/9.jpg"
+    },
+    {
+        "id": 149,
+        "name": "Sabahın Alimləri",
+        "photourl": "./assets/images/SA XIV/10.jpg"
+    },
+    
     {
         "id": 131,
         "name": "SAF 2024",
@@ -34,8 +96,6 @@
         "name": "SAF 2024",
         "photourl": "./assets/images/SAF2024/4.jpg"
     },
-
-
     {
         "id": 135,
         "name": "SAF 2024",
@@ -66,7 +126,6 @@
         "name": "SAF 2024",
         "photourl": "./assets/images/SAF2024/17.jpg"
     },
-
     {
         "id": 119,
         "name": "SAF 2024",
@@ -80,7 +139,7 @@
     {
         "id": 117,
         "name": "SAF 2024",
-        "photourl": "./assets/images/SAF2024/21.jpg"
+        "photourl": "./assets/images/SAF2024/3.jpg"
     },
     {
         "id": 120,
@@ -116,7 +175,7 @@
     {
         "id": 140,
         "name": "SAF 2024",
-        "photourl": "./assets/images/SAF2024/3.jpg"
+        "photourl": "./assets/images/SAF2024/21.jpg"
     },
     {
         "id": 115,
